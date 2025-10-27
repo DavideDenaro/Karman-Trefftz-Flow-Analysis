@@ -19,9 +19,9 @@ This tool is intended for educational and analytical use in **aerodynamics and p
 
 ## Requirements
 
-- **MATLAB R2023a or later**  
-- MATLAB App Designer  
-- Community Functions (MATLAB File Exchange): 'arrow3.m', 'getContourLineCoordinates.m'
+- **MATLAB R2023a or later**.  
+- MATLAB App Designer.  
+- Community Functions (MATLAB File Exchange): [`arrow3`](https://www.mathworks.com/matlabcentral/fileexchange/14056-arrow3), [`getContourLineCoordinates`](https://www.mathworks.com/matlabcentral/fileexchange/74010-getcontourlinecoordinates).
 
 ---
 
@@ -31,3 +31,20 @@ This tool is intended for educational and analytical use in **aerodynamics and p
 2. Open the file `KT_Analysis_GUI.mlapp` in **MATLAB App Designer**.  
 3. Run the app by clicking **Run**.  
 4. Use the input fields to modify airfoil parameters and visualise the resulting flow.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and share it, provided you keep the license text and give credit to the original author.
+
+---
+
+## Author
+
+**Davide Denaro**  
+Developed as part of my Bachelor’s thesis in Mechanical Engineering. 
+
+[GitHub Profile](https://github.com/DavideDenaro)
+
+e-mail: davidedenaro6@gmail.com
