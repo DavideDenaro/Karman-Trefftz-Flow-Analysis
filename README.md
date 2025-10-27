@@ -15,6 +15,8 @@ It allows users to:
 
 This tool is intended for educational and analytical use in **aerodynamics and potential flow theory**.
 
+![User Interface](MyAppUISnapshot.png)
+
 ---
 
 ## Requirements
